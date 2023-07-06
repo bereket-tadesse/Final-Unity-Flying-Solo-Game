@@ -5,4 +5,4 @@ This is my first game using unity and C# after completing unity game development
 
 Link to the simulated game can be found here:  
 
-ttps://bereket-tadesse.github.io/Final-Unity-Flying-Solo-Game/
+https://bereket-tadesse.github.io/Final-Unity-Flying-Solo-Game/
