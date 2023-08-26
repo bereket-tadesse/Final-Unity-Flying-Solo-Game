@@ -1,7 +1,7 @@
 # GOaFInalSoloproject
 
 
-This is my first game using unity game development software and C# script. 
+This is my first game using unity game development software and C# script...
 
 The game also involved designing objects using blender. Some objects are imported from Unity asset store and also my own blender designs as well.
 Link to the simulated game can be found here:  
